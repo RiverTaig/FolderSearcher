@@ -1,0 +1,7 @@
+ExcludeFilesOfTypes|True
+ExcludeFilesLargerThan|True,1000
+SearchSubfolders|True
+DefaultFileType|*.cs
+DefaultSearchString|ID8List
+ShowProgress|True
+CaseSensitive|False

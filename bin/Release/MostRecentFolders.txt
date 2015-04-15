@@ -1,0 +1,1 @@
+C:\Program Files,C:\Code\arcgis-web-appbuilder-1.0\client\stemapp\widgets\DesignerExpress,C:\Code\arcgis-web-appbuilder-1.0\client\,C:\Code\arcgis-web-appbuilder-1.0,C:\Code\

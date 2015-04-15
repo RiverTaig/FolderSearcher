@@ -1,0 +1,13 @@
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\FolderSearcher.exe.config
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\ExclusionList.txt
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\FolderSearcher.txt
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\MostRecentFolders.txt
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\FolderSearcher.exe
+C:\Code\sales_marketing\trunk\FolderSearcher\bin\Release\FolderSearcher.pdb
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.csprojResolveAssemblyReference.cache
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.frmOptions.resources
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.Properties.Resources.resources
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.csproj.GenerateResource.Cache
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.exe
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.pdb
+C:\Code\sales_marketing\trunk\FolderSearcher\obj\Release\FolderSearcher.frmFolderSearcher.resources

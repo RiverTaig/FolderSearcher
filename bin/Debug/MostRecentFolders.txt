@@ -1,0 +1,1 @@
+C:\Code\ProductSource\1011\source,c:\documents and settings,C:\Code,C:\Users\demo\Desktop,C:\Users\demo\Desktop\Images,C:\arcgis\ArcTutor\ArcScan,C:\app\demo\diag\clients,C:\Users\demo\Desktop\Installers\ArcGISRuntimeSDKNET\SetupFiles\Documentation,C:\bin,C:\Users\demo\Desktop\SLCReceipts,C:\Users\demo\Desktop\icons\res\drawable-hdpi,C:\Users\demo\.AndroidStudio\config\inspection
